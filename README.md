@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi ✨ I'm Hoshi</h1>
 
-<!--
-**Hoshi-Dev/Hoshi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+	<strong>
+  “ All we have to decide is what to do with the time that is given us.”
+	</strong>
+- Gandalf
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	"Programming has become the primary tool to pursue my personal growth,
+	discover how rewarding it is to learn something new every day, and solve
+	problems in a practical way."
+</p>
+
+<div align="center">
+<a
+	href="https://www.linkedin.com/in/andrea-elizabeth-baez-rivero/"
+	target="_blank">
+	<img
+		height="32"
+		width="32"
+		src="https://cdn.simpleicons.org/linkedin" />
+</a>
+</div>
+
+
+<div align="center">
+	<h2 align="center">Skills</h2>
+
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,react" />
+</a>
+</div>
